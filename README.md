@@ -14,6 +14,7 @@ The Correspondence:
 |esrgan|`rrdb_psnr`, `rrdb_esrgan`|ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks|
 |rcan|`rcan_x2`, `rcan_x3`, `rcan_x4`|Image Super-Resolution Using Very Deep Residual Channel Attention Networks|
 |csd|`csd_edsr_mix`, `csd_edsr_student`|Towards Compact Single Image Super-Resolution via Contrastive Self-distillation|
+|rdn|`rdn_x2`, `rdn_x3`, `rdn_x4`|Residual Dense Network for Image Super-Resolution|
 
 
 Pretrained pytorch models:
@@ -30,3 +31,4 @@ Thanks to the following authors for generously making their code available.
 - ESRGAN : https://github.com/xinntao/ESRGAN
 - RCAN : https://github.com/yulunzhang/RCAN
 - CSD : https://github.com/Booooooooooo/CSD
+- RDN : https://github.com/yulunzhang/RDN https://github.com/open-mmlab/mmediting
